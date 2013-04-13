@@ -1,0 +1,9 @@
+{
+    "name": "monitoring",
+    "version": "0.0.1",
+    "dependencies": {
+        "restify"    : "2.3.4",
+        "nodemailer" : "0.3.31",
+        "twilio"     : "1.0.1"
+    }
+}

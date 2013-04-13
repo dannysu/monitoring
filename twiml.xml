@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Service is down!</Say>
+    <Pause length="1"></Pause>
+    <Say voice="woman" language="en-gb">Service is down!</Say>
+</Response>
